@@ -61,5 +61,5 @@ delete (cat.whiskers)
 
 function returnIndex(cat) {
  // your code inside here
- 
+    return cat.likes[3]
 }

@@ -7,7 +7,9 @@
     // output: 7
 
 function daysPosition(day, offset) {
-
+    switch('sunday'){
+        case true
+    }
 }
 
 
